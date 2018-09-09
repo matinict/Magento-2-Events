@@ -3,11 +3,10 @@
 
 Customer Events: 
 
-01.customer_address_save_before   
+01.customer_address_save_before
 
-02. customer_address_save_after   
+02. customer_address_save_after
 
 03. sales_quote_save_after   
-
 
 [vendor/magento/module-customer/etc/event.xml] 
