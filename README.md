@@ -3,7 +3,7 @@
 
 Customer Events: 
 
-01.customer_address_save_before
+01. customer_address_save_before
 
 02. customer_address_save_after
 
