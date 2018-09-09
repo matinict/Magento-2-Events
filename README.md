@@ -1,10 +1,10 @@
-# Magento-2-Events
+# Magento-2-Events 
 
 
-Customer Events:
+Customer Events: 
 
-01.customer_address_save_before
-02. customer_address_save_after
-03. sales_quote_save_after
+01.customer_address_save_before 
+02. customer_address_save_after 
+03. sales_quote_save_after 
 
-[vendor/magento/module-customer/etc/event.xml]
+[vendor/magento/module-customer/etc/event.xml] 
