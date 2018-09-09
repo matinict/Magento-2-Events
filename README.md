@@ -10,3 +10,11 @@ Customer Events:
 03. sales_quote_save_after   
 
 [vendor/magento/module-customer/etc/event.xml] 
+
+
+
+Checkout Events:
+
+04. sales_quote_save_after
+
+[vendor/magento/module-checkout/etc/event.xml]
